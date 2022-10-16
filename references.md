@@ -1,1 +1,4 @@
-### conflicting edit
+# conflicting edit
+# References
+
+* octocat 1 😈
